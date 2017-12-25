@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "1088750629796",
+    "firebase_url": "https://gamet-c54e6.firebaseio.com",
+    "project_id": "gamet-c54e6",
+    "storage_bucket": "gamet-c54e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088750629796:android:fad1795db8024c3c",
+        "android_client_info": {
+          "package_name": "com.example.paul.gamet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088750629796-7er0p8l5rbdst6aglvefq6h1a5v886p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1KStkY_5HoRI2aCbjlSA0CUTU-JLsTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088750629796:android:87ff873390be36fd",
+        "android_client_info": {
+          "package_name": "com.example.paul.gametc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088750629796-7er0p8l5rbdst6aglvefq6h1a5v886p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1KStkY_5HoRI2aCbjlSA0CUTU-JLsTg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
